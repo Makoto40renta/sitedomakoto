@@ -25647,7 +25647,7 @@ cr.getObjectRefTable = function () { return [
 	cr.system_object.prototype.cnds.IsGroupActive,
 	cr.system_object.prototype.cnds.Every,
 	cr.plugins_.Spritefont2.prototype.acts.Destroy,
-	cr.plugins_.progressbar.prototype.acts.SetWidth,
+	cr.plugins_.Sprite.prototype.cnds.PickByUID,
 	cr.system_object.prototype.exps.windowwidth,
 	cr.system_object.prototype.exps.windowheight,
 	cr.plugins_.Button.prototype.acts.SetVisible,
@@ -25662,6 +25662,7 @@ cr.getObjectRefTable = function () { return [
 	cr.behaviors.Fade.prototype.acts.SetFadeInTime,
 	cr.behaviors.Fade.prototype.acts.SetFadeOutTime,
 	cr.behaviors.Fade.prototype.acts.StartFade,
+	cr.system_object.prototype.acts.Wait,
 	cr.plugins_.Sprite.prototype.acts.SetPos,
 	cr.system_object.prototype.cnds.PickByComparison,
 	cr.system_object.prototype.exps.objectcount,
@@ -25669,7 +25670,5 @@ cr.getObjectRefTable = function () { return [
 	cr.system_object.prototype.acts.CreateObject,
 	cr.plugins_.Function.prototype.cnds.OnFunction,
 	cr.plugins_.Function.prototype.exps.Param,
-	cr.system_object.prototype.acts.Wait,
-	cr.plugins_.Browser.prototype.acts.GoToURL,
 	cr.system_object.prototype.acts.GoToLayoutByName
 ];};
