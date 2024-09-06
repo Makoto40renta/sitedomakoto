@@ -25621,6 +25621,7 @@ cr.getObjectRefTable = function () { return [
 	cr.plugins_.Audio.prototype.acts.Play,
 	cr.plugins_.Dictionary.prototype.acts.AddKey,
 	cr.plugins_.Spritefont2.prototype.acts.SetY,
+	cr.plugins_.Sprite.prototype.acts.Destroy,
 	cr.system_object.prototype.cnds.TriggerOnce,
 	cr.system_object.prototype.cnds.CompareVar,
 	cr.plugins_.Audio.prototype.acts.Stop,
@@ -25643,7 +25644,6 @@ cr.getObjectRefTable = function () { return [
 	cr.plugins_.Function.prototype.acts.CallFunction,
 	cr.behaviors.lunarray_LiteTween.prototype.cnds.IsActive,
 	cr.behaviors.lunarray_LiteTween.prototype.cnds.OnEnd,
-	cr.plugins_.Sprite.prototype.acts.Destroy,
 	cr.system_object.prototype.cnds.IsGroupActive,
 	cr.system_object.prototype.cnds.Every,
 	cr.plugins_.Spritefont2.prototype.acts.Destroy,
@@ -25664,10 +25664,10 @@ cr.getObjectRefTable = function () { return [
 	cr.behaviors.Fade.prototype.acts.StartFade,
 	cr.system_object.prototype.cnds.PickByComparison,
 	cr.system_object.prototype.exps.objectcount,
+	cr.system_object.prototype.exps.layoutname,
 	cr.system_object.prototype.acts.CreateObject,
 	cr.plugins_.Function.prototype.cnds.OnFunction,
 	cr.plugins_.Function.prototype.exps.Param,
 	cr.system_object.prototype.acts.Wait,
-	cr.plugins_.Browser.prototype.acts.GoToURL,
 	cr.system_object.prototype.acts.GoToLayoutByName
 ];};
