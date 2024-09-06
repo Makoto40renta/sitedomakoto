@@ -25654,6 +25654,7 @@ cr.getObjectRefTable = function () { return [
 	cr.plugins_.Button.prototype.acts.Destroy,
 	cr.plugins_.Button.prototype.cnds.OnClicked,
 	cr.plugins_.Sprite.prototype.acts.SetPos,
+	cr.plugins_.Sprite.prototype.acts.SetEffectParam,
 	cr.system_object.prototype.exps.viewportleft,
 	cr.plugins_.Spritefont2.prototype.acts.SetX,
 	cr.plugins_.Sprite.prototype.exps.Width,
