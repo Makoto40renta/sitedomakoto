@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1725592067,
+	"version": 1726863342,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -51,6 +51,12 @@
 		"images/transitionicon-sheet0.png",
 		"images/transitionicon-sheet1.png",
 		"images/fundo4.png",
+		"images/sprite-sheet0.png",
+		"images/sprite-sheet1.png",
+		"images/tiledbackground.png",
+		"images/sprite2-sheet0.png",
+		"images/tiledbackground2.png",
+		"images/buttonquick-sheet0.png",
 		"media/main menu mode select - mario kart wii music extended.m4a",
 		"media/main menu mode select - mario kart wii music extended.ogg",
 		"media/main menu character and kart select - mario kart wii music extended.m4a",
