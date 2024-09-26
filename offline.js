@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1727206984,
+	"version": 1727293597,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -49,6 +49,7 @@
 		"images/processingload-sheet0.png",
 		"images/processingload-sheet1.png",
 		"images/transitionicon-sheet0.png",
+		"images/transitionicon-sheet1.png",
 		"images/fundo4.png",
 		"images/fundo5.png",
 		"images/sprite-sheet0.png",
@@ -92,6 +93,9 @@
 		"images/sprite4-sheet5.png",
 		"images/sprite4-sheet6.png",
 		"images/sprite4-sheet7.png",
+		"images/fundo7.png",
+		"images/fundo8.png",
+		"images/fundo9.png",
 		"media/hs_se_004.m4a",
 		"media/hs_se_004.ogg",
 		"media/hs_se_003.m4a",
