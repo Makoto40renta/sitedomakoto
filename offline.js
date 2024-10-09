@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1728435970,
+	"version": 1728437632,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -109,6 +109,7 @@
 		"images/sprite13-sheet1.png",
 		"images/sprite14-sheet0.png",
 		"images/sprite15-sheet0.png",
+		"images/sprite16-sheet0.png",
 		"media/otto0.m4a",
 		"media/otto0.ogg",
 		"media/ostella0.m4a",
