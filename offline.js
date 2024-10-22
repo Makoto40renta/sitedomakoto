@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1729625155,
+	"version": 1729625554,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -136,6 +136,7 @@
 		"images/updateyesno-sheet0.png",
 		"images/updateyesno-sheet1.png",
 		"images/updateconfirm-sheet0.png",
+		"images/savedeleter-sheet0.png",
 		"media/otto0.m4a",
 		"media/otto0.ogg",
 		"media/ostella0.m4a",
