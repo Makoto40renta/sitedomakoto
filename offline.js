@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1729696900,
+	"version": 1729735080,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -137,6 +137,8 @@
 		"images/updateyesno-sheet1.png",
 		"images/updateconfirm-sheet0.png",
 		"images/savedeleter-sheet0.png",
+		"images/sprite20-sheet0.png",
+		"images/sprite20-sheet1.png",
 		"media/otto0.m4a",
 		"media/otto0.ogg",
 		"media/ostella0.m4a",
@@ -157,6 +159,8 @@
 		"media/scream.ogg",
 		"media/cash register sound effect.m4a",
 		"media/cash register sound effect.ogg",
+		"media/drumtrackloop.m4a",
+		"media/drumtrackloop.ogg",
 		"media/deltarune ost： 1 - another him.m4a",
 		"media/deltarune ost： 1 - another him.ogg",
 		"media/main menu mode select - mario kart wii music extended.m4a",
