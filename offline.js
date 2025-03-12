@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1741800811,
+	"version": 1741813667,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -162,6 +162,13 @@
 		"images/sprite2-sheet0.png",
 		"images/sprite2-sheet1.png",
 		"images/sprite3-sheet0.png",
+		"images/sprite4-sheet0.png",
+		"images/sprite4-sheet1.png",
+		"images/sprite4-sheet2.png",
+		"images/tiledbackground.png",
+		"images/lorepbuttons-sheet0.png",
+		"images/sprite5-sheet0.png",
+		"images/sprite5-sheet1.png",
 		"media/otto0.m4a",
 		"media/otto0.ogg",
 		"media/ostella0.m4a",
@@ -210,6 +217,7 @@
 		"siteintro.mp4",
 		"siteintro.ogv",
 		"siteintro.webm",
+		"charinfo.json",
 		"loadphrases.json",
 		"videoinfos.json"
 	]
