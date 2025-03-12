@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1730412491,
+	"version": 1741800811,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -154,6 +154,14 @@
 		"images/watchbutton-sheet2.png",
 		"images/videoplayerfin-sheet0.png",
 		"images/backbutton-sheet0.png",
+		"images/explorationplayer-sheet0.png",
+		"images/explorationplayer-sheet1.png",
+		"images/walltype0-sheet0.png",
+		"images/pseudofloor-sheet0.png",
+		"images/sprite-sheet0.png",
+		"images/sprite2-sheet0.png",
+		"images/sprite2-sheet1.png",
+		"images/sprite3-sheet0.png",
 		"media/otto0.m4a",
 		"media/otto0.ogg",
 		"media/ostella0.m4a",
