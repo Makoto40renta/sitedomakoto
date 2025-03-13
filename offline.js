@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1741813667,
+	"version": 1741904424,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -169,6 +169,8 @@
 		"images/lorepbuttons-sheet0.png",
 		"images/sprite5-sheet0.png",
 		"images/sprite5-sheet1.png",
+		"images/sprite6-sheet0.png",
+		"images/sprite6-sheet1.png",
 		"media/otto0.m4a",
 		"media/otto0.ogg",
 		"media/ostella0.m4a",
