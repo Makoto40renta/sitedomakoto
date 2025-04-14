@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1743786851,
+	"version": 1744652162,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -172,10 +172,12 @@
 		"images/sprite6-sheet0.png",
 		"images/sprite6-sheet1.png",
 		"images/tiledbackground2.png",
-		"images/sprite7-sheet0.png",
+		"images/globalpseudomouse-sheet0.png",
 		"images/9patch.png",
 		"images/desenhosdesenhos-sheet0.png",
 		"images/sprite4-sheet0.png",
+		"images/menufunkyanim-sheet0.png",
+		"images/9patch2.png",
 		"media/otto0.m4a",
 		"media/otto0.ogg",
 		"media/ostella0.m4a",
@@ -228,6 +230,7 @@
 		"siteintro.webm",
 		"charinfo.json",
 		"loadphrases.json",
-		"videoinfos.json"
+		"videoinfos.json",
+		"drawnames.json"
 	]
 }
