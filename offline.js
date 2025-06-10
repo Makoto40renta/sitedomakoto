@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1749498003,
+	"version": 1749575500,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -179,6 +179,7 @@
 		"images/worlddecorations-sheet0.png",
 		"images/tiledbackground3.png",
 		"images/timedburgers-sheet0.png",
+		"images/testeaaaa-sheet0.png",
 		"media/otto0.m4a",
 		"media/otto0.ogg",
 		"media/ostella0.m4a",
@@ -225,6 +226,7 @@
 		"loading-logo.png",
 		"broken_image.png",
 		"test1.png",
+		"velho.png",
 		"resolutionwarning.png",
 		"siteintro.mp4",
 		"siteintro.ogv",
