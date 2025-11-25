@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1757445502,
+	"version": 1764098448,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -80,6 +80,8 @@
 		"images/ostostella-sheet0.png",
 		"images/fundo5.png",
 		"images/fundo9.png",
+		"images/botoesjogos-sheet0.png",
+		"images/talktuah-sheet0.png",
 		"images/9patch3.png",
 		"images/easteregg_enaldvd-sheet0.png",
 		"images/outrascoisasotto-sheet0.png",
@@ -212,12 +214,12 @@
 		"media/main menu character and kart select - mario kart wii music extended.ogg",
 		"media/main menu course select - mario kart wii music extended.m4a",
 		"media/main menu course select - mario kart wii music extended.ogg",
-		"media/options - mario kart wii music extended.m4a",
-		"media/options - mario kart wii music extended.ogg",
 		"media/sfx-blink.m4a",
 		"media/sfx-blink.ogg",
 		"media/pizza tower ost - move it_ boy_ (unused - character select)(mp3_320k).m4a",
 		"media/pizza tower ost - move it_ boy_ (unused - character select)(mp3_320k).ogg",
+		"media/frutigeraero.m4a",
+		"media/frutigeraero.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
@@ -234,6 +236,7 @@
 		"charinfo.json",
 		"loadphrases.json",
 		"videoinfos.json",
-		"drawnames.json"
+		"drawnames.json",
+		"gameurl.json"
 	]
 }
