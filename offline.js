@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1764098448,
+	"version": 1764728364,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -237,6 +237,7 @@
 		"loadphrases.json",
 		"videoinfos.json",
 		"drawnames.json",
-		"gameurl.json"
+		"gameurl.json",
+		"videosarray.json"
 	]
 }
